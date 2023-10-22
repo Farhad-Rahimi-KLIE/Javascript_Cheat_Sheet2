@@ -1,2 +1,2 @@
-Converts an object to a string
+//Converts an object to a string
 toString()
