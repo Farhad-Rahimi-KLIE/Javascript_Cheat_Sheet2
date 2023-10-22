@@ -1,2 +1,2 @@
-Converts a number to its exponential form.
+//Converts a number to its exponential form.
 toExponential()
