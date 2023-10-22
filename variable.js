@@ -1,2 +1,2 @@
-//Containers for storing data.
+//Containers for storing Data.
 var fruit = ["element1", "element2", "element3"];
