@@ -1,2 +1,2 @@
-Returns the date from the date object
+//Returns the date from the date object
 getDate()
