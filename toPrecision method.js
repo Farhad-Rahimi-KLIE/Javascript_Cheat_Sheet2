@@ -1,2 +1,2 @@
-Formats a number into a specified length.
+//Formats a number into a specified length.
 toPrecision()
