@@ -1,2 +1,2 @@
-The blur() method removes focus from the current window.
+//The blur() method removes focus from the current window.
 blur()
