@@ -1,2 +1,2 @@
-Returns the minutes from the date object
+//Returns the minutes from the date object
 getMinutes()
