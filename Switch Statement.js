@@ -1,4 +1,4 @@
-Switch case statement in JavaScript
+//Switch case statement in JavaScript
 switch(expression) {
 case x:
 // code block
