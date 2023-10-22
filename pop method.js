@@ -1,2 +1,2 @@
-Deletes the last element of the array.
+//Deletes the last element of the array.
 pop()
