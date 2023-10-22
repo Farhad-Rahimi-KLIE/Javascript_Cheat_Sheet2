@@ -1,2 +1,2 @@
-Returns the hours from the date object
+//Returns the hours from the date object
 getHours()
