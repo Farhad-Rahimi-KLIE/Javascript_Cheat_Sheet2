@@ -1,2 +1,2 @@
-Joins two or more arrays together.
+//Joins two or more arrays together.
 concat()
