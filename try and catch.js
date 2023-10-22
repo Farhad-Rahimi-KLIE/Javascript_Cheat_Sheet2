@@ -1,7 +1,7 @@
-Try the code block and execute catch when err is thrown
+//Try the code block and execute catch when err is thrown
 try {
-Block of code to try
+//Block of code to try
 }
 catch(err) {
-Block of code to handle errors
+//Block of code to handle errors
 }
