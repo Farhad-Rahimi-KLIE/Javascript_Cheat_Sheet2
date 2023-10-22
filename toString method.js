@@ -1,2 +1,2 @@
-Converts the array elements to a string.
+//Converts the array elements to a string.
 toString()
