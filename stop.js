@@ -1,2 +1,2 @@
-Stops the further resource loading
+//Stops the further resource loading
 stop()
