@@ -1,4 +1,4 @@
-A basic if-else ladder
+//A basic if-else ladder
 if (condition1) {
 // block of code to be executed if condition1 is true
 } else if (condition2) {
