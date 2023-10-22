@@ -1,2 +1,2 @@
-Returns the value of E^x.
+//Returns the value of E^x.
 exp(x)
