@@ -1,1 +1,1 @@
-Methods that are available from the window object
+//Methods that are available from the window object
