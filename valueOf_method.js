@@ -1,2 +1,2 @@
-Returns the primitive value of a number.
+//Returns the primitive value of a number.
 valueOf()
