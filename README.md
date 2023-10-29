@@ -1,2 +1,2 @@
 # Javascript_Cheat_Sheet2
-<img src="Javascript-logo.png">
+<img src="JavaScript-logo.png">
